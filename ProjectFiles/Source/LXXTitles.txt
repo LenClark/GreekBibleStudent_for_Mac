@@ -1,0 +1,59 @@
+ΓΕΝΕΣΙΣ	Genesis	Gen	01_Gen.txt
+ΕΞΟΔΟΣ	Exodus	Exod	02_Exod.txt
+ΛΕΥΙΤΙΚΟΝ	Leviticus	Lev	03_Lev.txt
+ΑΡΙΘΜΟΙ	Numbers	Num	04_Num.txt
+ΔΕΥΤΕΡΟΝΟΜΙΟΝ	Deuteronomy	Deut	05_Deut.txt
+ΙΗΣΟΥΣ	Joshua (Codex Vaticanus)	JoshB	06_JoshB.txt
+ΙΗΣΟΥA	Joshua (Codex Alexandrinus)	JoshA	07_JoshA.txt
+ΚΡΙΤΑΙ (Codex Vaticanus)	Judges (Codex Vaticanus)	JudgB	08_JudgesB.txt
+ΚΡΙΤΑΙ (Codex Alexandrinus)	Judges (Codex Alexandrinus)	JudgA	09_JudgesA.txt
+ΡΟΥΘ	Ruth	Ruth	10_Ruth.txt
+ΒΑΣΙΛΕΙΩΝ Α (M 1Sam)	1 Samuel	1Sam/K	11_1Sam.txt
+ΒΑΣΙΛΕΙΩΝ Β (M 2Sam)	2 Samuel	2Sam/K	12_2Sam.txt
+ΒΑΣΙΛΕΙΩΝ Γ (M 1Regn)	1 Kings	1/3Kgs	13_1Kings.txt
+ΒΑΣΙΛΕΙΩΝ Δ (M 2Regn)	2 Kings	2/4Kgs	14_2Kings.txt
+ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α	1 Chronicles	1Chr	15_1Chron.txt
+ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β	2 Chronicles	2Chr	16_2Chron.txt
+ΕΣΔΡΑΣ Α (liber apocryphus)	1 Esdras	1Esdr	17_1Esdras.txt
+"ΕΣΔΡΑΣ Β (M Esdr, Neh)"	Ezra and Nehemiah	2Esdr	18_2Esdras.txt
+ΕΣΘΗΡ	Esther	Esth	19_Esther.txt
+ΙΟΥΔΙΘ	Judith	Jdt	20_Judith.txt
+ΤΩΒΙΤ (Codices Alex. & Vat.)	Tobit (Codices Vaticanus and Alexandrinus)	TobBA	21_TobitBA.txt
+ΤΩΒΙΤ (Codex Sinaiticus)	Tobit (Codex Sinaiticus)	TobS	22_TobitS.txt
+ΜΑΚΚΑΒΑΙΩΝ Α	1 Macabees	1Mac	23_1Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Β	2 Macabees	2Mac	24_2Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Γ	3 Macabees	3Mac	25_3Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Δ	4 Macabees	4Mac	26_4Macc.txt
+ΨΑΛΜΟΙ	Psalms	Ps	27_Psalms.txt
+ΩΔΑΙ	Odes	Od	28_Odes.txt
+ΠΑΡΟΙΜΙΑΙ	Proverbs	Prov	29_Proverbs.txt
+ΕΚΚΛΗΣΙΑΣΤΗΣ	Ecclesiastes	Qoh	30_Qoheleth.txt
+ΑΣΜΑ	Song of Songs	Cant	31_Canticles.txt
+ΙΩΒ	Job	Job	32_Job.txt
+ΣΟΦΙΑ ΣΑΛΩΜΩΝΟΣ	Wisdom of Solomon	Wis	33_Wisdom.txt
+ΣΟΦΙΑ ΣΙΡΑΧ	Ecclesiasticus	Sir	34_Sirach.txt
+ΨΑΛΜΙ ΣΟΛΟΜΩΝΤΟΣ	Psalms of Solomon	PsSol	35_PsSol.txt
+ΩΣΗΕ	Hosea	Hos	36_Hosea.txt
+ΜΙΧΑΙΑΣ	Micah	Mic	37_Micah.txt
+ΑΜΩΣ	Amos	Amos	38_Amos.txt
+ΙΩΗΛ	Joel	Joel	39_Joel.txt
+ΙΩΝΑΣ	Jonah	Jonah	40_Jonah.txt
+ΑΒΔΙΟΥ	Obadiah	Obad	41_Obadiah.txt
+ΝΑΟΥΜ	Nahum	Nah	42_Nahum.txt
+ΑΜΒΑΚΟΥΜ	Habakkuk	Hab	43_Habakkuk.txt
+ΣΟΦΟΝΙΑΣ	Zephaniah	Zeph	44_Zeph.txt
+ΑΓΓΑΙΟΣ	Haggai	Hag	45_Haggai.txt
+ΖΑΧΑΡΙΑΣ	Zechariah	Zech	46_Zech.txt
+ΜΑΛΑΧΙΑΣ	Malachi	Mal	47_Malachi.txt
+ΗΣΑΙΑΣ	Isaiah	Isa	48_Isaiah.txt
+ΙΕΡΕΜΙΑΣ	Jeremiah	Jer	49_Jer.txt
+ΒΑΡΟΥΧ	Baruch	Bar	50_Baruch.txt
+ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ	Epistle of Jeremiah	EpJer	51_EpJer.txt
+ΘΡΗΝΟΙ	Lamentations	Lam	52_Lam.txt
+ΙΕΖΕΚΙΗΛ	Ezekiel	Ezek	53_Ezek.txt
+ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ (LXX)	Bel and the Dragon (Old Greek)	Bel	54_BelOG.txt
+ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ (Θεοδοτίων)	Bell and the Dragon (Theodotion)	BelTh	55_BelTh.txt
+ΔΑΝΙΗΛ (LXX)	Daniel (Old Greek)	Dan	56_DanielOG.txt
+ΔΑΝΙΗΛ (Θεοδοτίων)	Daniel (Theodotion)	DanTh	57_DanielTh.txt
+ΣΟΥΣΑΝΝΑ (LXX)	Susanna (Old Greek)	Sus	58_SusOG.txt
+ΣΟΥΣΑΝΝΑ (Θεοδοτίων)	Susanna (Theodotion)	SusTh	59_SusTh.txt
